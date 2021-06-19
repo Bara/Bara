@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bara&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bara&theme=onedark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bara&theme=onedark)
 
